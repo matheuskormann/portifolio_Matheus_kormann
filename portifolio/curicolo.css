@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto+Mono:wght@300&display=swap');
+body{
+    background-image: url("./imagens/fundo_curicolo.png");
+    background-size: cover;
+}
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 80px;
+}
+h2{
+    font-size: 40px;
+    position: relative;
+    top: -40px;
+}
+h3{
+    font-size: large;
+}
+li{
+    font-family: 'Roboto Mono', monospace;
+    font-size: medium;
+
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+    font-size: medium;
+}
+#tudo{
+    position: relative;
+    left: 17%;
+}
+#email{
+    display: flex;
+    position: relative;
+    top: -40px;
+}
+#imagem_email{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+#Telefone{
+    display: flex;
+    position: relative;
+    top: -40px;
+}
+#imagem_telefone{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+#objetivos{
+    position: relative;
+    top: -40px;
+}
+#educaçao{
+    position: relative;
+    top: -40px;
+}
+#data{
+    position: relative;
+   left: 750px;
+   bottom: 40px;
+}
+#hab{
+    position: relative;
+    top: -50px;
+}
+#espe{
+    position: relative;
+    top: -50px;
+}
+#santo{
+    position: relative;
+    top: -40px;
+}
